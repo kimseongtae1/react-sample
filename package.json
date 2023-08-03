@@ -1,6 +1,6 @@
 {
-  "homepage": "https://kimseongtae1.github.io/react-basic",
-  "name": "basic",
+  "homepage": "https://kimseongtae1.github.io/react-sample",
+  "name": "sample",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

@@ -15,7 +15,7 @@ function App() {
  
 
   return (
-    <BrowserRouter basename='/react-basic'> 
+    <BrowserRouter basename='/react-sample'> 
       <div className="wrap">
 
         <header>
